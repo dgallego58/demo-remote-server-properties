@@ -1,2 +1,5 @@
 custom:
   prop: holiwis
+customName: repositorio_git_config_general
+loadClientTimeout: 11
+active: true
