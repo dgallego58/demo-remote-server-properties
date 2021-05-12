@@ -1,2 +1,5 @@
 custom:
   prop: val_dev_prop
+customName: repositorio_git_config
+loadClientTimeout: 9
+active: false
